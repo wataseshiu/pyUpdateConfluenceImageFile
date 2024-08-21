@@ -1,0 +1,2 @@
+# pyUpdateConfluenceImageFile
+Confluenceの所定のページ以下に配置済みの画像をローカル上で更新したあとConfluence上の画像も更新する用のツール
